@@ -1,0 +1,6 @@
+# Credit_card_fraud
+Project on credit card fraud detection using logistic regression model in python 
+
+dataset downloaded from kaggle
+
+Dataset link : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazgyM1RTUzRnQU1DTDJxbEQyRkRpTW0xT3B0d3xBQ3Jtc0tuTEl5allfZDVGNkdmQl9qUkhwUS1ZOHFFVWtKZFVoMGZPUVN5R1JBS3haaVlsc0YwcnphVWxHNFNlSjUtOFRPbWEwd0xyTFFLZ09WckNuVTRGOTFXNkpDR185eDQtSHJWQzVHQlVPVDZvWnFrVmhKTQ&q=https%3A%2F%2Fwww.kaggle.com%2Fmlg-ulb%2Fcreditcardfraud&v=NCgjcHLFNDg
